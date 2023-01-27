@@ -52,8 +52,8 @@
 
 <h3>Arpit Verma</h3>
 
-  <a href="https://linkedin.com/in/arpit-v-1a4205220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansuman-behera-7b00b61b6" height="30" width="40" /></a>
-  <a href="https://github.com/arpitvermaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" />
+  <a href="https://linkedin.com/in/arpit-v-1a4205220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitvermaofficial" height="30" width="40" /></a>
+  <a href="https://github.com/arpitvermaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arpitvermaofficial" height="30" width="40" />
   </a>   <a href="https://developers.google.com/profile
 /u/102728849976140432195" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1111678689228582913/t2k7QK3r_400x400.png" alt="_ansuman_behera_/" height="30" width="40" /></a>
-   <a href="https://www.hackerrank.com/arpitv747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
+   <a href="https://www.hackerrank.com/arpitv747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpitvermaofficial" height="30" width="40" /></a>
