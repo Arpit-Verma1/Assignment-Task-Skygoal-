@@ -2,8 +2,6 @@
 import 'package:custom_line_indicator_bottom_navbar/custom_line_indicator_bottom_navbar.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:internship/college.dart';
-import 'package:internship/home1.dart';
 import 'package:internship/screen.dart';
 
 
@@ -41,9 +39,8 @@ class _MyHomePageState extends State<MyHomePage> {
   AnimationController  animationController;
   final page=[
     Home(),
-Home1(),
-  Home1(),
-    Home1(),
+    College(),
+    College(),
     College(),
 
   ];
@@ -405,4 +402,19 @@ class _HomeState extends State<Home> {
     return visible;
 }
   }
+class College extends StatefulWidget {
+  const College({Key? key}) : super(key: key);
+
+  @override
+  State<College> createState() => _CollegeState();
+}
+
+class _CollegeState extends State<College> {
+
+  @override
+  Widget build(BuildContext context) {
+    Size size=MediaQuery.of(context).size;
+   return Scaffold();
+  }
+}
 
